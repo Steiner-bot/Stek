@@ -1,0 +1,11 @@
+C:\Users\MER.19\Desktop\STEK\STEK\bin\Debug\netcoreapp3.1\STEK.exe
+C:\Users\MER.19\Desktop\STEK\STEK\bin\Debug\netcoreapp3.1\STEK.deps.json
+C:\Users\MER.19\Desktop\STEK\STEK\bin\Debug\netcoreapp3.1\STEK.runtimeconfig.json
+C:\Users\MER.19\Desktop\STEK\STEK\bin\Debug\netcoreapp3.1\STEK.runtimeconfig.dev.json
+C:\Users\MER.19\Desktop\STEK\STEK\bin\Debug\netcoreapp3.1\STEK.dll
+C:\Users\MER.19\Desktop\STEK\STEK\bin\Debug\netcoreapp3.1\STEK.pdb
+C:\Users\MER.19\Desktop\STEK\STEK\obj\Debug\netcoreapp3.1\STEK.csprojAssemblyReference.cache
+C:\Users\MER.19\Desktop\STEK\STEK\obj\Debug\netcoreapp3.1\STEK.AssemblyInfoInputs.cache
+C:\Users\MER.19\Desktop\STEK\STEK\obj\Debug\netcoreapp3.1\STEK.AssemblyInfo.cs
+C:\Users\MER.19\Desktop\STEK\STEK\obj\Debug\netcoreapp3.1\STEK.dll
+C:\Users\MER.19\Desktop\STEK\STEK\obj\Debug\netcoreapp3.1\STEK.pdb
