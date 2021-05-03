@@ -1,0 +1,6 @@
+C:\University\2 курс\4 семестр\Saod\StackExercise2181Meschaninov\FirstSeminar\bin\Debug\FirstSeminar.exe
+C:\University\2 курс\4 семестр\Saod\StackExercise2181Meschaninov\FirstSeminar\bin\Debug\FirstSeminar.pdb
+C:\University\2 курс\4 семестр\Saod\StackExercise2181Meschaninov\FirstSeminar\obj\Debug\FirstSeminar.csprojAssemblyReference.cache
+C:\University\2 курс\4 семестр\Saod\StackExercise2181Meschaninov\FirstSeminar\obj\Debug\FirstSeminar.csproj.CoreCompileInputs.cache
+C:\University\2 курс\4 семестр\Saod\StackExercise2181Meschaninov\FirstSeminar\obj\Debug\FirstSeminar.exe
+C:\University\2 курс\4 семестр\Saod\StackExercise2181Meschaninov\FirstSeminar\obj\Debug\FirstSeminar.pdb
