@@ -1,0 +1,6 @@
+C:\University\2 курс\4 семестр\Saod\StackCalc\StackCalc\bin\Debug\StackCalc.exe
+C:\University\2 курс\4 семестр\Saod\StackCalc\StackCalc\bin\Debug\StackCalc.pdb
+C:\University\2 курс\4 семестр\Saod\StackCalc\StackCalc\obj\Debug\StackCalc.csprojAssemblyReference.cache
+C:\University\2 курс\4 семестр\Saod\StackCalc\StackCalc\obj\Debug\StackCalc.csproj.CoreCompileInputs.cache
+C:\University\2 курс\4 семестр\Saod\StackCalc\StackCalc\obj\Debug\StackCalc.exe
+C:\University\2 курс\4 семестр\Saod\StackCalc\StackCalc\obj\Debug\StackCalc.pdb
