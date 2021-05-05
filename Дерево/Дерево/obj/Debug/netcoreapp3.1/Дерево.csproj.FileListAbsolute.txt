@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Дерево\Дерево\bin\Debug\netcoreapp3.1\Дерево.exe
+C:\Users\admin\source\repos\Дерево\Дерево\bin\Debug\netcoreapp3.1\Дерево.deps.json
+C:\Users\admin\source\repos\Дерево\Дерево\bin\Debug\netcoreapp3.1\Дерево.runtimeconfig.json
+C:\Users\admin\source\repos\Дерево\Дерево\bin\Debug\netcoreapp3.1\Дерево.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Дерево\Дерево\bin\Debug\netcoreapp3.1\Дерево.dll
+C:\Users\admin\source\repos\Дерево\Дерево\bin\Debug\netcoreapp3.1\Дерево.pdb
+C:\Users\admin\source\repos\Дерево\Дерево\obj\Debug\netcoreapp3.1\Дерево.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Дерево\Дерево\obj\Debug\netcoreapp3.1\Дерево.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Дерево\Дерево\obj\Debug\netcoreapp3.1\Дерево.AssemblyInfo.cs
+C:\Users\admin\source\repos\Дерево\Дерево\obj\Debug\netcoreapp3.1\Дерево.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Дерево\Дерево\obj\Debug\netcoreapp3.1\Дерево.dll
+C:\Users\admin\source\repos\Дерево\Дерево\obj\Debug\netcoreapp3.1\Дерево.pdb
+C:\Users\admin\source\repos\Дерево\Дерево\obj\Debug\netcoreapp3.1\Дерево.genruntimeconfig.cache
