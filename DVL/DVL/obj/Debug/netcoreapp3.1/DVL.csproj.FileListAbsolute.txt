@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\DVL\DVL\bin\Debug\netcoreapp3.1\DVL.exe
+C:\Users\admin\Desktop\DVL\DVL\bin\Debug\netcoreapp3.1\DVL.deps.json
+C:\Users\admin\Desktop\DVL\DVL\bin\Debug\netcoreapp3.1\DVL.runtimeconfig.json
+C:\Users\admin\Desktop\DVL\DVL\bin\Debug\netcoreapp3.1\DVL.runtimeconfig.dev.json
+C:\Users\admin\Desktop\DVL\DVL\bin\Debug\netcoreapp3.1\DVL.dll
+C:\Users\admin\Desktop\DVL\DVL\bin\Debug\netcoreapp3.1\DVL.pdb
+C:\Users\admin\Desktop\DVL\DVL\obj\Debug\netcoreapp3.1\DVL.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\DVL\DVL\obj\Debug\netcoreapp3.1\DVL.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\DVL\DVL\obj\Debug\netcoreapp3.1\DVL.AssemblyInfo.cs
+C:\Users\admin\Desktop\DVL\DVL\obj\Debug\netcoreapp3.1\DVL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DVL\DVL\obj\Debug\netcoreapp3.1\DVL.dll
+C:\Users\admin\Desktop\DVL\DVL\obj\Debug\netcoreapp3.1\DVL.pdb
+C:\Users\admin\Desktop\DVL\DVL\obj\Debug\netcoreapp3.1\DVL.genruntimeconfig.cache
